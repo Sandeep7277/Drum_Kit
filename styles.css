@@ -46,6 +46,9 @@ background-image: url("./images/tom1.png");
 
 .set {
   margin: 10% auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .game-over {
